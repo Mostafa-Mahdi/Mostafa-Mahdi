@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @Mostafa-Mahdi
 - 👀 I’m interested in School.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on nothing atm.
 - 📫 How to reach me : Through UDDATA+
